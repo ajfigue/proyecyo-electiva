@@ -1,3 +1,17 @@
+# Proyecto Nest Electiva de profundización I
+
+## Integrantes
+
+* Lunellys Cortes
+* Jhon Dias
+* Alfonso Figueroa
+
+## Sprint I
+
+### Historias de Usuario
+
+## Historias Técnicas
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
